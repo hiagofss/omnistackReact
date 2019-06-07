@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/omnistackReact/static/css/main.54fac75f.chunk.css",
+    "main.js": "/omnistackReact/static/js/main.d224af5a.chunk.js",
+    "main.js.map": "/omnistackReact/static/js/main.d224af5a.chunk.js.map",
+    "runtime~main.js": "/omnistackReact/static/js/runtime~main.54ce8105.js",
+    "runtime~main.js.map": "/omnistackReact/static/js/runtime~main.54ce8105.js.map",
+    "static/js/2.e3379c23.chunk.js": "/omnistackReact/static/js/2.e3379c23.chunk.js",
+    "static/js/2.e3379c23.chunk.js.map": "/omnistackReact/static/js/2.e3379c23.chunk.js.map",
+    "index.html": "/omnistackReact/index.html",
+    "precache-manifest.924d5ceae3a71a959effb99174f6e40a.js": "/omnistackReact/precache-manifest.924d5ceae3a71a959effb99174f6e40a.js",
+    "service-worker.js": "/omnistackReact/service-worker.js",
+    "static/css/main.54fac75f.chunk.css.map": "/omnistackReact/static/css/main.54fac75f.chunk.css.map"
+  }
+}
