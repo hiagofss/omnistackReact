@@ -10,7 +10,7 @@ class App extends React.Component {
   handleSubscribe = async e => {
     e.preventDefault();
 
-    await axios.post('https://intense-springs-43931.herokuapp.com/subscriptions', this.state);
+    await axios.post('https://omnistackdeployapp.herokuapp.com/subscriptions', this.state);
 
     alert('Cadastrado com Sucesso!');
     this.setState({ email: '' });
